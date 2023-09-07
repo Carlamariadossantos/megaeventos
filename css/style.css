@@ -1,0 +1,87 @@
+body {
+    background-color: rgb(202, 202, 201);
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    align-items: center;
+}
+.title {
+    color: rgb(77, 0, 133);
+margin-right: 550px;
+margin-left: 550px;
+}
+.conini {
+    color: rgb(77, 0, 133);
+    margin-right: 550px;
+    margin-left: 550px;
+}
+.desen {
+    color: rgb(77, 0, 133);
+    margin-right: 550px;
+    margin-left: 550px;
+}
+.consfin {
+    color: rgb(77, 0, 133);
+    margin-right: 550px;
+    margin-left: 550px;
+}
+.refer {
+    color: rgb(77, 0, 133);
+    margin-right: 550px;
+    margin-left: 550px;
+}
+
+
+.title:hover {
+    color: rgb(77, 0, 133);
+    background-color: goldenrod;
+   
+}
+.conini:hover {
+    color: rgb(77, 0, 133);
+    background-color: goldenrod;
+  
+}
+.desen:hover {
+    color: rgb(77, 0, 133);
+    background-color: goldenrod;
+    
+}
+.consfin:hover {
+    color: rgb(77, 0, 133);
+    background-color: goldenrod;
+
+}
+.refer:hover {
+    color: rgb(77, 0, 133);
+    background-color: goldenrod;
+
+}
+.text{
+    background-color:rgb(153, 153, 146) ;
+   border-radius: 2%;
+   margin-right:20%;
+   margin-left: 20%;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul{
+display: inline-flex;
+text-decoration: none;
+list-style-type: none;
+}
+
+li{
+    display: inline;
+    margin-right: 20px;
+    color:rgb(77, 0, 133) ;
+}
+li:hover{
+    background-color: goldenrod;
+}
+#liink{
+    display: flex;
+}
